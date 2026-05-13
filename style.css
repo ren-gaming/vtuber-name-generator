@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f1a;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  width: 90%;
+  max-width: 500px;
+}
+
+.panel {
+  background: #1b1b2e;
+  padding: 15px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+select, button {
+  margin: 8px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  cursor: pointer;
+  background: #6c5ce7;
+  color: white;
+}
+
+button:hover {
+  background: #8e7dff;
+}
+
+.card {
+  padding: 25px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #1b1b2e, #111122);
+  border: 2px solid #6c5ce7;
+  text-align: left;
+}
+
+.card h2 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.card p {
+  margin: 8px 0;
+}
