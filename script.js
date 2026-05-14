@@ -1,8 +1,8 @@
 const data = {
   cute: {
-    prefixes: ["Luna", "Mimi", "Koko", "Suki", "Nana"],
-    suffixes: ["bunny", "paws", "sparkle", "milk", "cloud"],
-    themes: ["Pastel Pink", "Soft Blue", "Cream White"],
+    prefixes: ["Luna", "Mimi", "Koko", "Suki", "Nana", "aka"],
+    suffixes: ["bunny", "paws", "sparkle", "milk", "cloud", "chan"],
+    themes: ["Pastel Pink", "Soft Blue", "Cream White", "Celestia", "Flora"],
     styles: ["Cozy streaming", "ASMR", "Gaming chill"],
     traits: ["Shy but chaotic", "Overly energetic", "Sweet but unhinged"]
   },
